@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg716" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)" sodipodi:docname="Base for fritzing_ resized_fonts.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 547.1 360"
+	 style="enable-background:new 0 0 547.1 360;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DEDFE0;stroke:#000000;stroke-width:0.2159;stroke-miterlimit:11.3386;}
+	.st1{fill:#ABADB0;fill-opacity:0.36;stroke:#000000;stroke-width:0.3363;stroke-miterlimit:11.3386;}
+	.st2{fill:none;stroke:#652A00;stroke-width:0.9996;stroke-miterlimit:11.3386;}
+	.st3{fill:none;stroke:#DD0000;stroke-width:0.9996;stroke-miterlimit:11.3386;}
+	.st4{fill:none;stroke:#DD5C00;stroke-width:0.9996;stroke-miterlimit:11.3386;}
+	.st5{fill:none;stroke:#DD5C00;stroke-width:0.9927;stroke-miterlimit:11.3386;}
+	.st6{fill:none;stroke:#652A00;stroke-width:0.9927;stroke-miterlimit:11.3386;}
+	.st7{fill:none;stroke:#DD0000;stroke-width:0.9927;stroke-miterlimit:11.3386;}
+	.st8{fill:#426EB6;stroke:#426EB6;}
+	.st9{fill:#FFFFFF;}
+	.st10{fill:#DCDCDC;stroke:#000000;stroke-width:0.3754;stroke-miterlimit:11.3386;}
+	.st11{fill:url(#SVGID_1_);}
+	.st12{fill:none;stroke:url(#SVGID_00000051381765345093239600000017388757612267078839_);stroke-width:0.1;}
+	.st13{fill:url(#SVGID_00000116929551785005617480000005735585533713651381_);}
+	.st14{fill:none;stroke:url(#SVGID_00000177464645398477703690000015608247294999736448_);stroke-width:0.1;}
+	.st15{fill:#FFFFFF;stroke:#000000;stroke-width:0.3184;stroke-miterlimit:11.3386;}
+	.st16{fill:none;stroke:#000000;stroke-width:1.3803;stroke-miterlimit:11.3386;}
+	.st17{fill:#616161;stroke:#000000;stroke-width:1.398;stroke-miterlimit:11.3386;}
+	.st18{fill:#616161;stroke:#FF0000;stroke-width:1.362;stroke-miterlimit:11.3386;}
+	.st19{fill:#616161;stroke:#FFEA00;stroke-width:1.3424;stroke-miterlimit:11.3386;}
+	.st20{fill:#616161;stroke:#00BA14;stroke-width:1.3884;stroke-miterlimit:11.3386;}
+	.st21{fill:#000A37;}
+	.st22{fill:#CCCCCC;fill-opacity:0.988;}
+	.st23{fill:#949494;fill-opacity:0.988;}
+	.st24{fill:#7E8083;}
+	.st25{fill:#E0E1E2;}
+	.st26{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:11.3386;}
+	.st27{fill:none;stroke:#BF2025;stroke-width:0.75;stroke-miterlimit:11.3386;}
+	.st28{fill:#BCBEC0;fill-opacity:0.75;}
+</style>
+<path class="st0" d="M-58.2,104.1l19.5-22.7c0-23.4-19.1-42.5-42.5-42.5V46h-13.5v7.1h14.2v8.5h-14.2v32.6h-65.2V61.8h-14.2v-8.5
+	h14.2v-7.1h-13.5v-7.1c-25.9,0-36.2,29.7-62.1,29.7h-256.8c-29.7,0-54.3,23.2-56.5,52.4h20.9v-5h9.9v128.9h-9.9v-5h-20.9
+	c2.2,29.2,26.8,52.4,56.5,52.4h256.8c25.9,0,36.2,29.8,62.1,29.8v-7.1h13.5v-7.1h-14.2v-8.5h14.2V267h65.2v32.6h14.2v8.5h-14.2v7.1
+	h13.5v7.1c23.4,0,42.5-19.1,42.5-42.5l-19.5-22.7V104.1z M-526.5,107.7c-2.3,0-4.2-1.9-4.3-4.2c0-2.3,2-4.2,4.3-4.2
+	c2.4,0,4.3,1.9,4.3,4.2S-524.2,107.7-526.5,107.7z M-526.5,262c-2.3,0-4.2-1.9-4.3-4.2c0-2.3,2-4.2,4.3-4.2c2.4,0,4.3,1.9,4.3,4.2
+	C-522.2,260.1-524.2,262-526.5,262z M-69.2,292.9c-2.3,0-4.2-1.9-4.3-4.2c0-2.3,2-4.2,4.3-4.2c2.4,0,4.3,1.9,4.3,4.2
+	S-66.9,292.9-69.2,292.9z M-69.2,77c-2.3,0-4.2-1.9-4.3-4.2c0-2.3,2-4.2,4.3-4.2c2.4,0,4.3,1.9,4.3,4.2S-66.9,77-69.2,77z"/>
+<rect id="rect4142_00000001644908197264663010000009546748250266987186_" x="-421" y="111.2" class="st1" width="140.4" height="181.4"/>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer10" inkscape:cx="115.02114" inkscape:cy="242.48915" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="837" inkscape:window-maximized="1" inkscape:window-width="1600" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="8.0000002" pagecolor="#ffffff" showgrid="false" showguides="true">
+	</sodipodi:namedview>
+<g id="layer4" inkscape:groupmode="layer" inkscape:label="Ultrasonic">
+</g>
+<g id="layer3" inkscape:groupmode="layer" inkscape:label="Wire 1">
+</g>
+<path id="path1622_00000080179292373819120970000015020704770198192316_" sodipodi:nodetypes="cccssc" class="st2" d="M-94.3,81.9
+	c0,0,29.9-1.2,29.8,12.9c0.1,12.5-40.6,10.9-52.9,10.9c-63.4,0-143.4-0.1-188.2-0.2c-7.7,0-10-0.2-10.2,5.8"/>
+<path id="path1622-8_00000140724014477432713170000009681319774782113947_" sodipodi:nodetypes="cccssc" class="st3" d="M-94.3,83.4
+	c0,0,27.8-0.7,27.8,11.4c0.2,10-40.8,9.2-53.1,9.2c-63.4,0-145.4-0.2-189.9-0.1c-6.5-0.1-7.9,2.6-7.9,7.2"/>
+<path id="path1622-8-5" sodipodi:nodetypes="cccssc" class="st4" d="M-94.3,85.2c0,0,24.8-0.4,25.7,9.6c0.8,7.1-38.2,7.9-50.4,7.9
+	c-42.1,0.3-147.9-0.1-193.7-0.1c-3.5,0-6.4,2.8-6.5,6.4c0,0,0,0,0,0.1v2.2"/>
+<path id="path1622-6" sodipodi:nodetypes="cccsssssssc" class="st5" d="M-94.5,279.8c0,0,30.2,1.1,30.1-12.8
+	c0.1-12.4-40.6-10.7-52.9-10.7c-35.3,0-102.7,0.2-163.2,0.2"/>
+<path id="path1622-6-9" sodipodi:nodetypes="cccsssssc" class="st6" d="M-94.5,282.5c0,0,33.6,1.7,33.3-15.7
+	c0.2-16-40.9-13.4-55.6-13.4c-35.3,0-103,0.1-163.7,0.1"/>
+<path id="path1622-6-9-4" sodipodi:nodetypes="cccsssssc" class="st7" d="M-94.5,281.2c0,0,31.6,1.1,31.7-14.1
+	c0.2-14.7-41.7-12.3-53.9-12.3c-35.4,0-103.2,0.2-163.9,0.2"/>
+<g id="g5484" transform="matrix(1.3247184,0,0,1.3316689,-41.478301,-113.39563)">
+	<path id="path755" sodipodi:nodetypes="cccccccccccc" class="st8" d="M-30.4,114.6h-10v-8.5h-9.7v-3.2h-5.1v3.2h-14v4h-20.1v4.5
+		l-10.3,0.2v5l10.2,0.1v5.3h-10.7v6.4h10.6V156h48.9v-24.4H-30v-6.4h-10.6v-5.3h10.1L-30.4,114.6z"/>
+	<path id="path755-7" sodipodi:nodetypes="cccccccccccc" class="st8" d="M-30.1,327.2h-10v8.6h-9.7v3.2h-5.1v-3.3h-14v-4H-89v-4.6
+		l-10.4,0.1l0.1-5.4h10.1v-5.3h-10.7v-6.4h10.6v-24.4h48.9v24.4h10.6v6.4h-10.6v5.3l10.4,0L-30.1,327.2z"/>
+</g>
+<g id="g5573" transform="matrix(0.35039325,0,0,0.35223169,-10.966511,5.0031192)">
+	<rect id="rect4116" x="-296" y="52.8" class="st9" width="19.3" height="12.1"/>
+	<rect id="rect4116-5" x="-295.4" y="933.8" class="st9" width="19.3" height="12.1"/>
+</g>
+<text transform="matrix(1.0006 0 0 1 -415.2606 129.0386)" style="font-family:'ArialMT'; font-size:6px;">LED4</text>
+<text transform="matrix(1.0006 0 0 1 -414.6991 272.0732)" style="font-family:'ArialMT'; font-size:6px;">LED1</text>
+<text transform="matrix(1.0006 0 0 1 -301.0297 272.0732)" style="font-family:'ArialMT'; font-size:6px;">LED2</text>
+<text transform="matrix(1.0006 0 0 1 -302.0297 129.0386)" style="font-family:'ArialMT'; font-size:6px;">LED3</text>
+<text transform="matrix(1.0006 0 0 1 -151.099 71.542)" class="st9" style="font-family:'ArialMT'; font-size:14px;">Servo L</text>
+<text transform="matrix(1.0006 0 0 1 -152.4916 303.9824)" class="st9" style="font-family:'ArialMT'; font-size:14px;">Servo R</text>
+<text transform="matrix(0.9893 0 0 1 -505.6517 179.7441)" style="font-family:'ArialMT'; font-size:6px;">E</text>
+<text transform="matrix(0.9893 0 0 1 -506.3051 172.5977)" style="font-family:'ArialMT'; font-size:6px;">G</text>
+<path id="path3727" sodipodi:nodetypes="ccccccccccccccccccc" class="st10" d="M-548.6,121.1h20.6v-5h9.8v128.8h-9.8v-5h-20.6h-12.1
+	v-43.8h32.6v-4.2h-7.5v-23.8h7.5v-4.4h-32.6V121L-548.6,121.1z"/>
+<g id="rect3758">
+	
+		<radialGradient id="SVGID_1_" cx="-572.3943" cy="631.2238" r="5.7973" gradientTransform="matrix(3.7307 6.552000e-03 -3.073844e-03 0.8504 1597.7219 -403.9923)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<polygon class="st11" points="-561.1,124.2 -518.2,124.3 -518.2,133.9 -561.1,133.8 	"/>
+	
+		<radialGradient id="SVGID_00000104670937238102567500000010836470744825272242_" cx="-870.6605" cy="89.9414" r="5.7827" gradientTransform="matrix(-0.3639 -1.5156 1.0941 -0.1276 -953.886 -1178.7401)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</radialGradient>
+	<polygon style="fill:none;stroke:url(#SVGID_00000104670937238102567500000010836470744825272242_);stroke-width:0.1;" points="
+		-561.1,124.2 -518.2,124.3 -518.2,133.9 -561.1,133.8 	"/>
+</g>
+<g id="rect3758-3">
+	
+		<radialGradient id="SVGID_00000154397886174730790860000012341183724991586188_" cx="-572.5792" cy="399.4306" r="5.799" gradientTransform="matrix(3.7307 1.209728e-02 -3.073844e-03 1.5702 1598.1318 -418.6093)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<polygon style="fill:url(#SVGID_00000154397886174730790860000012341183724991586188_);" points="-560.7,192.7 -517.7,192.8 
+		-517.8,210.6 -560.7,210.5 	"/>
+	
+		<radialGradient id="SVGID_00000016794732177723340050000001259588850373793931_" cx="-744.1504" cy="132.0183" r="5.7827" gradientTransform="matrix(-0.3639 -2.7984 1.0941 -0.2357 -953.4761 -1849.0106)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</radialGradient>
+	<polygon style="fill:none;stroke:url(#SVGID_00000016794732177723340050000001259588850373793931_);stroke-width:0.1;" points="
+		-560.7,192.7 -517.7,192.8 -517.8,210.6 -560.7,210.5 	"/>
+</g>
+<rect id="rect4029" x="-535.6" y="168.1" class="st15" width="5.4" height="23.9"/>
+<path id="path4039" class="st16" d="M-533.4,189.6h21.9"/>
+<path id="path4043" class="st16" d="M-533.2,176.8h21.7"/>
+<path id="path4045" class="st16" d="M-533.2,170.7h21.7"/>
+<path id="path4043-7" class="st16" d="M-533.2,183.1h21.7"/>
+<rect id="rect4071" x="-513.8" y="169" class="st17" width="3.2" height="3.3"/>
+<rect id="rect4071-0" x="-514" y="188.1" class="st18" width="3.4" height="3"/>
+<rect id="rect4071-2" x="-514.1" y="181.7" class="st19" width="3.6" height="2.8"/>
+<rect id="rect4071-4" x="-514" y="175.2" class="st20" width="3.4" height="3.1"/>
+<rect id="rect4110" x="-528" y="116.1" class="st21" width="9.8" height="128.8"/>
+<text transform="matrix(0.9893 0 0 1 -505.726 192.7656)" style="font-family:'ArialMT'; font-size:6px;">V</text>
+<text transform="matrix(0.9893 0 0 1 -505.6517 186.5645)" style="font-family:'ArialMT'; font-size:6px;">T</text>
+<g id="layer11" inkscape:groupmode="layer" inkscape:label="Wheels">
+	<rect id="rect4785" x="-195.9" y="6.4" width="169.5" height="22.1"/>
+	<rect id="rect4785-56" x="-196" y="333.4" width="169.5" height="22.1"/>
+</g>
+<rect id="rect4114" x="-360.5" y="283.7" width="50.4" height="9"/>
+<text transform="matrix(1.0006 0 0 1 -326.0829 290.4297)" class="st9" style="font-family:'ArialMT'; font-size:6px;">R</text>
+<text transform="matrix(1.0006 0 0 1 -331.2679 290.4292)" class="st9" style="font-family:'ArialMT'; font-size:6px;">L</text>
+<text transform="matrix(1.0232 0 0 1 -319.8011 290.4292)" class="st9" style="font-family:'ArialMT'; font-size:6px;">+</text>
+<text transform="matrix(1.1932 0 0 1 -314.1239 289.9922)" class="st9" style="font-family:'ArialMT'; font-size:6px;">-</text>
+<text transform="matrix(1.0006 0 0 1 -336.7245 290.4297)" class="st9" style="font-family:'ArialMT'; font-size:6px;">1</text>
+<text transform="matrix(0.9589 0 0 1 -342.2069 290.4297)" class="st9" style="font-family:'ArialMT'; font-size:6px;">2</text>
+<text transform="matrix(1.0006 0 0 1 -347.9755 290.4287)" class="st9" style="font-family:'ArialMT'; font-size:6px;">3</text>
+<text transform="matrix(1.0006 0 0 1 -353.4623 290.4292)" class="st9" style="font-family:'ArialMT'; font-size:6px;">4</text>
+<rect id="rect4153-3-4" x="-315.6" y="292.7" class="st22" width="5.6" height="5.6"/>
+<rect id="rect4153-3-4-3" x="-326.8" y="292.7" class="st22" width="5.6" height="5.6"/>
+<rect id="rect4153-3-3" x="-321.2" y="292.7" class="st23" width="5.6" height="5.6"/>
+<rect id="rect4153-3-30" x="-332.4" y="292.7" class="st23" width="5.6" height="5.6"/>
+<rect id="rect4153-3-8" x="-343.7" y="292.7" class="st23" width="5.6" height="5.6"/>
+<rect id="rect4153-3-5" x="-354.9" y="292.7" class="st23" width="5.6" height="5.6"/>
+<rect id="rect4153-3-4-3-6" x="-338.1" y="292.7" class="st22" width="5.6" height="5.6"/>
+<rect id="rect4153-3-4-3-9" x="-349.3" y="292.7" class="st22" width="5.6" height="5.6"/>
+<rect id="rect4153-3-4-3-9_00000038382138917739391680000009492449040712173467_" x="-360.5" y="292.7" class="st22" width="5.6" height="5.6"/>
+<text transform="matrix(1.0006 0 0 1 -359.163 290.501)" class="st9" style="font-family:'ArialMT'; font-size:6px;">S</text>
+<path class="st24" d="M-379.3,292.5h-17.1v-12.7c0-2.4,2-4.4,4.4-4.4h8.2c2.4,0,4.4,2,4.4,4.4v12.7H-379.3z"/>
+<rect x="-391.9" y="286.9" class="st25" width="1.3" height="2.4"/>
+<rect x="-385.1" y="286.9" class="st25" width="1.3" height="2.4"/>
+<rect x="-411.3" y="114.8" class="st9" width="6.1" height="6.1"/>
+<rect x="-296.8" y="114.5" class="st9" width="6.1" height="6.1"/>
+<rect x="-296.8" y="275.5" class="st9" width="6.1" height="6.1"/>
+<rect x="-411.3" y="276.7" class="st9" width="6.1" height="6.1"/>
+<line class="st26" x1="-267.3" y1="139.6" x2="-280.6" y2="139.6"/>
+<line class="st27" x1="-267.3" y1="142.1" x2="-280.6" y2="142.1"/>
+<rect id="rect4142" x="-267.3" y="116.6" class="st28" width="181.9" height="126.1"/>
+</svg>
